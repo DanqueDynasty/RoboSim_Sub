@@ -1,0 +1,591 @@
+fileFormatVersion: 2
+guid: 3d42d95208b98994f8f6fb96c2173b11
+timeCreated: 1458714075
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: MAinBot
+    100002: NDanq_20160322_2233_Ballast1
+    100004: NDanq_20160322_2233_Ballast2
+    100006: NDanq_20160322_2233_base8020
+    100008: NDanq_20160322_2233_base8021
+    100010: NDanq_20160322_2233_base8022
+    100012: NDanq_20160322_2233_base8023
+    100014: NDanq_20160322_2233_base8024
+    100016: NDanq_20160322_2233_base8025
+    100018: NDanq_20160322_2233_base8026
+    100020: NDanq_20160322_2233_base8027
+    100022: NDanq_20160322_2233_base8028
+    100024: NDanq_20160322_2233_base8029
+    100026: NDanq_20160322_2233_base8030
+    100028: NDanq_20160322_2233_base8031
+    100030: NDanq_20160322_2233_group1
+    100032: NDanq_20160322_2233_lowPoly_Defiance_pCube1
+    100034: NDanq_20160322_2233_lowPoly_Defiance_pCube2
+    100036: NDanq_20160322_2233_lowPoly_Defiance_pCube3
+    100038: NDanq_20160322_2233_lowPoly_Defiance_pCube4
+    100040: NDanq_20160322_2233_lowPoly_Defiance_pCube5
+    100042: NDanq_20160322_2233_lowPoly_Defiance_pCylinder1
+    100044: NDanq_20160322_2233_lowPoly_Defiance_pCylinder2
+    100046: NDanq_20160322_2233_lowPoly_Defiance_pCylinder3
+    100048: NDanq_20160322_2233_Main_Hull_Assembly__for_STL___2_
+    100050: NDanq_20160322_2233_Main_Hull_Assembly__for_STL___2_ 1
+    100052: NDanq_20160322_2233_Main_Hull_Assembly__for_STL___2__geom_set
+    100054: NDanq_20160322_2233_pCube1
+    100056: NDanq_20160322_2233_pCube2
+    100058: NDanq_20160322_2233_pCylinder1
+    100060: NDanq_20160322_2233_polySurface10
+    100062: NDanq_20160322_2233_polySurface12
+    100064: NDanq_20160322_2233_polySurface14
+    100066: NDanq_20160322_2233_polySurface16
+    100068: NDanq_20160322_2233_polySurface17
+    100070: NDanq_20160322_2233_polySurface18
+    100072: NDanq_20160322_2233_polySurface2
+    100074: NDanq_20160322_2233_polySurface20
+    100076: NDanq_20160322_2233_polySurface23
+    100078: NDanq_20160322_2233_polySurface24
+    100080: NDanq_20160322_2233_polySurface25
+    100082: NDanq_20160322_2233_polySurface26
+    100084: NDanq_20160322_2233_polySurface28
+    100086: NDanq_20160322_2233_polySurface29
+    100088: NDanq_20160322_2233_polySurface30
+    100090: NDanq_20160322_2233_polySurface31
+    100092: NDanq_20160322_2233_polySurface33
+    100094: NDanq_20160322_2233_polySurface35
+    100096: NDanq_20160322_2233_polySurface37
+    100098: NDanq_20160322_2233_polySurface4
+    100100: NDanq_20160322_2233_polySurface43
+    100102: NDanq_20160322_2233_polySurface44
+    100104: NDanq_20160322_2233_polySurface46
+    100106: NDanq_20160322_2233_polySurface47
+    100108: NDanq_20160322_2233_polySurface49
+    100110: NDanq_20160322_2233_polySurface50
+    100112: NDanq_20160322_2233_polySurface52
+    100114: NDanq_20160322_2233_polySurface55
+    100116: NDanq_20160322_2233_polySurface56
+    100118: NDanq_20160322_2233_polySurface57
+    100120: NDanq_20160322_2233_polySurface59
+    100122: NDanq_20160322_2233_polySurface6
+    100124: NDanq_20160322_2233_polySurface60
+    100126: NDanq_20160322_2233_polySurface62
+    100128: NDanq_20160322_2233_polySurface67
+    100130: NDanq_20160322_2233_polySurface68
+    100132: NDanq_20160322_2233_polySurface69
+    100134: NDanq_20160322_2233_polySurface7
+    100136: NDanq_20160322_2233_polySurface70
+    100138: NDanq_20160322_2233_polySurface70_MeshPart0
+    100140: NDanq_20160322_2233_polySurface70_MeshPart1
+    100142: NDanq_20160322_2233_polySurface70_MeshPart10
+    100144: NDanq_20160322_2233_polySurface70_MeshPart11
+    100146: NDanq_20160322_2233_polySurface70_MeshPart2
+    100148: NDanq_20160322_2233_polySurface70_MeshPart3
+    100150: NDanq_20160322_2233_polySurface70_MeshPart4
+    100152: NDanq_20160322_2233_polySurface70_MeshPart5
+    100154: NDanq_20160322_2233_polySurface70_MeshPart6
+    100156: NDanq_20160322_2233_polySurface70_MeshPart7
+    100158: NDanq_20160322_2233_polySurface70_MeshPart8
+    100160: NDanq_20160322_2233_polySurface70_MeshPart9
+    100162: NDanq_20160322_2233_polySurface71
+    100164: NDanq_20160322_2233_polySurface72
+    100166: NDanq_20160322_2233_polySurface73
+    100168: NDanq_20160322_2233_polySurface74
+    100170: NDanq_20160322_2233_polySurface75
+    100172: NDanq_20160322_2233_polySurface8
+    100174: NDanq_20160322_2233_polySurface9
+    100176: NDanq_20160322_2233_Propeller_Motor_Casing
+    100178: NDanq_20160322_2233_Propeller_Motor_Casing 1
+    100180: NDanq_20160322_2233_Propeller_Motor_Casing 2
+    100182: NDanq_20160322_2233_Propeller_Motor_Casing 3
+    100184: NDanq_20160322_2233_Propeller_Motor_Casing 4
+    100186: NDanq_20160322_2233_Propeller_Motor_Casing 5
+    100188: NDanq_20160322_2233_Propeller_Motor_Casing 6
+    100190: NDanq_20160322_2233_Propeller_Motor_Casing 7
+    100192: NDanq_20160322_2233_Propeller_MotorAssembly
+    100194: NDanq_20160322_2233_Propeller_MotorAssembly1
+    100196: NDanq_20160322_2233_Propeller_MotorAssembly2
+    100198: NDanq_20160322_2233_Propeller_MotorAssembly3
+    100200: NDanq_20160322_2233_Propeller_MotorAssembly4
+    100202: NDanq_20160322_2233_Propeller_MotorAssembly5
+    100204: NDanq_20160322_2233_Propeller_MotorAssembly6
+    100206: NDanq_20160322_2233_Propeller_MotorAssembly7
+    100208: NDanq_20160322_2233_Propeller_MotorChasis
+    100210: NDanq_20160322_2233_Propeller_MotorChasis 1
+    100212: NDanq_20160322_2233_Propeller_MotorChasis 2
+    100214: NDanq_20160322_2233_Propeller_MotorChasis 3
+    100216: NDanq_20160322_2233_Propeller_MotorChasis 4
+    100218: NDanq_20160322_2233_Propeller_MotorChasis 5
+    100220: NDanq_20160322_2233_Propeller_MotorChasis 6
+    100222: NDanq_20160322_2233_Propeller_MotorChasis 7
+    100224: NDanq_20160322_2233_Propeller_propeller
+    100226: NDanq_20160322_2233_Propeller_propeller 1
+    100228: NDanq_20160322_2233_Propeller_propeller 2
+    100230: NDanq_20160322_2233_Propeller_propeller 3
+    100232: NDanq_20160322_2233_Propeller_propeller 4
+    100234: NDanq_20160322_2233_Propeller_propeller 5
+    100236: NDanq_20160322_2233_Propeller_propeller 6
+    100238: NDanq_20160322_2233_Propeller_propeller 7
+    100240: NDanq_20160322_2233_pTorus2
+    100242: NDanq_20160322_2233_pTorus3
+    100244: NDanq_20160322_2233_pTorus4
+    100246: NDanq_20160322_2233_pTorus5
+    100248: NDanq_20160322_2233_transform1
+    100250: NDanq_20160322_2233_transform15
+    100252: NDanq_20160322_2233_transform16
+    100254: NDanq_20160322_2233_transform17
+    100256: //RootNode
+    400000: MAinBot
+    400002: NDanq_20160322_2233_Ballast1
+    400004: NDanq_20160322_2233_Ballast2
+    400006: NDanq_20160322_2233_base8020
+    400008: NDanq_20160322_2233_base8021
+    400010: NDanq_20160322_2233_base8022
+    400012: NDanq_20160322_2233_base8023
+    400014: NDanq_20160322_2233_base8024
+    400016: NDanq_20160322_2233_base8025
+    400018: NDanq_20160322_2233_base8026
+    400020: NDanq_20160322_2233_base8027
+    400022: NDanq_20160322_2233_base8028
+    400024: NDanq_20160322_2233_base8029
+    400026: NDanq_20160322_2233_base8030
+    400028: NDanq_20160322_2233_base8031
+    400030: NDanq_20160322_2233_group1
+    400032: NDanq_20160322_2233_lowPoly_Defiance_pCube1
+    400034: NDanq_20160322_2233_lowPoly_Defiance_pCube2
+    400036: NDanq_20160322_2233_lowPoly_Defiance_pCube3
+    400038: NDanq_20160322_2233_lowPoly_Defiance_pCube4
+    400040: NDanq_20160322_2233_lowPoly_Defiance_pCube5
+    400042: NDanq_20160322_2233_lowPoly_Defiance_pCylinder1
+    400044: NDanq_20160322_2233_lowPoly_Defiance_pCylinder2
+    400046: NDanq_20160322_2233_lowPoly_Defiance_pCylinder3
+    400048: NDanq_20160322_2233_Main_Hull_Assembly__for_STL___2_
+    400050: NDanq_20160322_2233_Main_Hull_Assembly__for_STL___2_ 1
+    400052: NDanq_20160322_2233_Main_Hull_Assembly__for_STL___2__geom_set
+    400054: NDanq_20160322_2233_pCube1
+    400056: NDanq_20160322_2233_pCube2
+    400058: NDanq_20160322_2233_pCylinder1
+    400060: NDanq_20160322_2233_polySurface10
+    400062: NDanq_20160322_2233_polySurface12
+    400064: NDanq_20160322_2233_polySurface14
+    400066: NDanq_20160322_2233_polySurface16
+    400068: NDanq_20160322_2233_polySurface17
+    400070: NDanq_20160322_2233_polySurface18
+    400072: NDanq_20160322_2233_polySurface2
+    400074: NDanq_20160322_2233_polySurface20
+    400076: NDanq_20160322_2233_polySurface23
+    400078: NDanq_20160322_2233_polySurface24
+    400080: NDanq_20160322_2233_polySurface25
+    400082: NDanq_20160322_2233_polySurface26
+    400084: NDanq_20160322_2233_polySurface28
+    400086: NDanq_20160322_2233_polySurface29
+    400088: NDanq_20160322_2233_polySurface30
+    400090: NDanq_20160322_2233_polySurface31
+    400092: NDanq_20160322_2233_polySurface33
+    400094: NDanq_20160322_2233_polySurface35
+    400096: NDanq_20160322_2233_polySurface37
+    400098: NDanq_20160322_2233_polySurface4
+    400100: NDanq_20160322_2233_polySurface43
+    400102: NDanq_20160322_2233_polySurface44
+    400104: NDanq_20160322_2233_polySurface46
+    400106: NDanq_20160322_2233_polySurface47
+    400108: NDanq_20160322_2233_polySurface49
+    400110: NDanq_20160322_2233_polySurface50
+    400112: NDanq_20160322_2233_polySurface52
+    400114: NDanq_20160322_2233_polySurface55
+    400116: NDanq_20160322_2233_polySurface56
+    400118: NDanq_20160322_2233_polySurface57
+    400120: NDanq_20160322_2233_polySurface59
+    400122: NDanq_20160322_2233_polySurface6
+    400124: NDanq_20160322_2233_polySurface60
+    400126: NDanq_20160322_2233_polySurface62
+    400128: NDanq_20160322_2233_polySurface67
+    400130: NDanq_20160322_2233_polySurface68
+    400132: NDanq_20160322_2233_polySurface69
+    400134: NDanq_20160322_2233_polySurface7
+    400136: NDanq_20160322_2233_polySurface70
+    400138: NDanq_20160322_2233_polySurface70_MeshPart0
+    400140: NDanq_20160322_2233_polySurface70_MeshPart1
+    400142: NDanq_20160322_2233_polySurface70_MeshPart10
+    400144: NDanq_20160322_2233_polySurface70_MeshPart11
+    400146: NDanq_20160322_2233_polySurface70_MeshPart2
+    400148: NDanq_20160322_2233_polySurface70_MeshPart3
+    400150: NDanq_20160322_2233_polySurface70_MeshPart4
+    400152: NDanq_20160322_2233_polySurface70_MeshPart5
+    400154: NDanq_20160322_2233_polySurface70_MeshPart6
+    400156: NDanq_20160322_2233_polySurface70_MeshPart7
+    400158: NDanq_20160322_2233_polySurface70_MeshPart8
+    400160: NDanq_20160322_2233_polySurface70_MeshPart9
+    400162: NDanq_20160322_2233_polySurface71
+    400164: NDanq_20160322_2233_polySurface72
+    400166: NDanq_20160322_2233_polySurface73
+    400168: NDanq_20160322_2233_polySurface74
+    400170: NDanq_20160322_2233_polySurface75
+    400172: NDanq_20160322_2233_polySurface8
+    400174: NDanq_20160322_2233_polySurface9
+    400176: NDanq_20160322_2233_Propeller_Motor_Casing
+    400178: NDanq_20160322_2233_Propeller_Motor_Casing 1
+    400180: NDanq_20160322_2233_Propeller_Motor_Casing 2
+    400182: NDanq_20160322_2233_Propeller_Motor_Casing 3
+    400184: NDanq_20160322_2233_Propeller_Motor_Casing 4
+    400186: NDanq_20160322_2233_Propeller_Motor_Casing 5
+    400188: NDanq_20160322_2233_Propeller_Motor_Casing 6
+    400190: NDanq_20160322_2233_Propeller_Motor_Casing 7
+    400192: NDanq_20160322_2233_Propeller_MotorAssembly
+    400194: NDanq_20160322_2233_Propeller_MotorAssembly1
+    400196: NDanq_20160322_2233_Propeller_MotorAssembly2
+    400198: NDanq_20160322_2233_Propeller_MotorAssembly3
+    400200: NDanq_20160322_2233_Propeller_MotorAssembly4
+    400202: NDanq_20160322_2233_Propeller_MotorAssembly5
+    400204: NDanq_20160322_2233_Propeller_MotorAssembly6
+    400206: NDanq_20160322_2233_Propeller_MotorAssembly7
+    400208: NDanq_20160322_2233_Propeller_MotorChasis
+    400210: NDanq_20160322_2233_Propeller_MotorChasis 1
+    400212: NDanq_20160322_2233_Propeller_MotorChasis 2
+    400214: NDanq_20160322_2233_Propeller_MotorChasis 3
+    400216: NDanq_20160322_2233_Propeller_MotorChasis 4
+    400218: NDanq_20160322_2233_Propeller_MotorChasis 5
+    400220: NDanq_20160322_2233_Propeller_MotorChasis 6
+    400222: NDanq_20160322_2233_Propeller_MotorChasis 7
+    400224: NDanq_20160322_2233_Propeller_propeller
+    400226: NDanq_20160322_2233_Propeller_propeller 1
+    400228: NDanq_20160322_2233_Propeller_propeller 2
+    400230: NDanq_20160322_2233_Propeller_propeller 3
+    400232: NDanq_20160322_2233_Propeller_propeller 4
+    400234: NDanq_20160322_2233_Propeller_propeller 5
+    400236: NDanq_20160322_2233_Propeller_propeller 6
+    400238: NDanq_20160322_2233_Propeller_propeller 7
+    400240: NDanq_20160322_2233_pTorus2
+    400242: NDanq_20160322_2233_pTorus3
+    400244: NDanq_20160322_2233_pTorus4
+    400246: NDanq_20160322_2233_pTorus5
+    400248: NDanq_20160322_2233_transform1
+    400250: NDanq_20160322_2233_transform15
+    400252: NDanq_20160322_2233_transform16
+    400254: NDanq_20160322_2233_transform17
+    400256: //RootNode
+    2300000: NDanq_20160322_2233_Ballast1
+    2300002: NDanq_20160322_2233_Ballast2
+    2300004: NDanq_20160322_2233_base8020
+    2300006: NDanq_20160322_2233_base8021
+    2300008: NDanq_20160322_2233_base8022
+    2300010: NDanq_20160322_2233_base8023
+    2300012: NDanq_20160322_2233_base8024
+    2300014: NDanq_20160322_2233_base8025
+    2300016: NDanq_20160322_2233_base8026
+    2300018: NDanq_20160322_2233_base8027
+    2300020: NDanq_20160322_2233_base8028
+    2300022: NDanq_20160322_2233_base8029
+    2300024: NDanq_20160322_2233_base8030
+    2300026: NDanq_20160322_2233_base8031
+    2300028: NDanq_20160322_2233_lowPoly_Defiance_pCube1
+    2300030: NDanq_20160322_2233_lowPoly_Defiance_pCube2
+    2300032: NDanq_20160322_2233_lowPoly_Defiance_pCube3
+    2300034: NDanq_20160322_2233_lowPoly_Defiance_pCube4
+    2300036: NDanq_20160322_2233_lowPoly_Defiance_pCube5
+    2300038: NDanq_20160322_2233_lowPoly_Defiance_pCylinder1
+    2300040: NDanq_20160322_2233_lowPoly_Defiance_pCylinder2
+    2300042: NDanq_20160322_2233_lowPoly_Defiance_pCylinder3
+    2300044: NDanq_20160322_2233_pCube1
+    2300046: NDanq_20160322_2233_pCube2
+    2300048: NDanq_20160322_2233_pCylinder1
+    2300050: NDanq_20160322_2233_polySurface16
+    2300052: NDanq_20160322_2233_polySurface17
+    2300054: NDanq_20160322_2233_polySurface23
+    2300056: NDanq_20160322_2233_polySurface24
+    2300058: NDanq_20160322_2233_polySurface25
+    2300060: NDanq_20160322_2233_polySurface29
+    2300062: NDanq_20160322_2233_polySurface31
+    2300064: NDanq_20160322_2233_polySurface44
+    2300066: NDanq_20160322_2233_polySurface47
+    2300068: NDanq_20160322_2233_polySurface50
+    2300070: NDanq_20160322_2233_polySurface55
+    2300072: NDanq_20160322_2233_polySurface56
+    2300074: NDanq_20160322_2233_polySurface57
+    2300076: NDanq_20160322_2233_polySurface60
+    2300078: NDanq_20160322_2233_polySurface62
+    2300080: NDanq_20160322_2233_polySurface7
+    2300082: NDanq_20160322_2233_polySurface70_MeshPart0
+    2300084: NDanq_20160322_2233_polySurface70_MeshPart1
+    2300086: NDanq_20160322_2233_polySurface70_MeshPart10
+    2300088: NDanq_20160322_2233_polySurface70_MeshPart11
+    2300090: NDanq_20160322_2233_polySurface70_MeshPart2
+    2300092: NDanq_20160322_2233_polySurface70_MeshPart3
+    2300094: NDanq_20160322_2233_polySurface70_MeshPart4
+    2300096: NDanq_20160322_2233_polySurface70_MeshPart5
+    2300098: NDanq_20160322_2233_polySurface70_MeshPart6
+    2300100: NDanq_20160322_2233_polySurface70_MeshPart7
+    2300102: NDanq_20160322_2233_polySurface70_MeshPart8
+    2300104: NDanq_20160322_2233_polySurface70_MeshPart9
+    2300106: NDanq_20160322_2233_polySurface71
+    2300108: NDanq_20160322_2233_polySurface72
+    2300110: NDanq_20160322_2233_polySurface73
+    2300112: NDanq_20160322_2233_polySurface74
+    2300114: NDanq_20160322_2233_polySurface75
+    2300116: NDanq_20160322_2233_polySurface9
+    2300118: NDanq_20160322_2233_Propeller_Motor_Casing
+    2300120: NDanq_20160322_2233_Propeller_Motor_Casing 1
+    2300122: NDanq_20160322_2233_Propeller_Motor_Casing 2
+    2300124: NDanq_20160322_2233_Propeller_Motor_Casing 3
+    2300126: NDanq_20160322_2233_Propeller_Motor_Casing 4
+    2300128: NDanq_20160322_2233_Propeller_Motor_Casing 5
+    2300130: NDanq_20160322_2233_Propeller_Motor_Casing 6
+    2300132: NDanq_20160322_2233_Propeller_Motor_Casing 7
+    2300134: NDanq_20160322_2233_Propeller_MotorChasis
+    2300136: NDanq_20160322_2233_Propeller_MotorChasis 1
+    2300138: NDanq_20160322_2233_Propeller_MotorChasis 2
+    2300140: NDanq_20160322_2233_Propeller_MotorChasis 3
+    2300142: NDanq_20160322_2233_Propeller_MotorChasis 4
+    2300144: NDanq_20160322_2233_Propeller_MotorChasis 5
+    2300146: NDanq_20160322_2233_Propeller_MotorChasis 6
+    2300148: NDanq_20160322_2233_Propeller_MotorChasis 7
+    2300150: NDanq_20160322_2233_Propeller_propeller
+    2300152: NDanq_20160322_2233_Propeller_propeller 1
+    2300154: NDanq_20160322_2233_Propeller_propeller 2
+    2300156: NDanq_20160322_2233_Propeller_propeller 3
+    2300158: NDanq_20160322_2233_Propeller_propeller 4
+    2300160: NDanq_20160322_2233_Propeller_propeller 5
+    2300162: NDanq_20160322_2233_Propeller_propeller 6
+    2300164: NDanq_20160322_2233_Propeller_propeller 7
+    2300166: NDanq_20160322_2233_pTorus2
+    2300168: NDanq_20160322_2233_pTorus3
+    2300170: NDanq_20160322_2233_pTorus4
+    2300172: NDanq_20160322_2233_pTorus5
+    3300000: NDanq_20160322_2233_Ballast1
+    3300002: NDanq_20160322_2233_Ballast2
+    3300004: NDanq_20160322_2233_base8020
+    3300006: NDanq_20160322_2233_base8021
+    3300008: NDanq_20160322_2233_base8022
+    3300010: NDanq_20160322_2233_base8023
+    3300012: NDanq_20160322_2233_base8024
+    3300014: NDanq_20160322_2233_base8025
+    3300016: NDanq_20160322_2233_base8026
+    3300018: NDanq_20160322_2233_base8027
+    3300020: NDanq_20160322_2233_base8028
+    3300022: NDanq_20160322_2233_base8029
+    3300024: NDanq_20160322_2233_base8030
+    3300026: NDanq_20160322_2233_base8031
+    3300028: NDanq_20160322_2233_lowPoly_Defiance_pCube1
+    3300030: NDanq_20160322_2233_lowPoly_Defiance_pCube2
+    3300032: NDanq_20160322_2233_lowPoly_Defiance_pCube3
+    3300034: NDanq_20160322_2233_lowPoly_Defiance_pCube4
+    3300036: NDanq_20160322_2233_lowPoly_Defiance_pCube5
+    3300038: NDanq_20160322_2233_lowPoly_Defiance_pCylinder1
+    3300040: NDanq_20160322_2233_lowPoly_Defiance_pCylinder2
+    3300042: NDanq_20160322_2233_lowPoly_Defiance_pCylinder3
+    3300044: NDanq_20160322_2233_pCube1
+    3300046: NDanq_20160322_2233_pCube2
+    3300048: NDanq_20160322_2233_pCylinder1
+    3300050: NDanq_20160322_2233_polySurface16
+    3300052: NDanq_20160322_2233_polySurface17
+    3300054: NDanq_20160322_2233_polySurface23
+    3300056: NDanq_20160322_2233_polySurface24
+    3300058: NDanq_20160322_2233_polySurface25
+    3300060: NDanq_20160322_2233_polySurface29
+    3300062: NDanq_20160322_2233_polySurface31
+    3300064: NDanq_20160322_2233_polySurface44
+    3300066: NDanq_20160322_2233_polySurface47
+    3300068: NDanq_20160322_2233_polySurface50
+    3300070: NDanq_20160322_2233_polySurface55
+    3300072: NDanq_20160322_2233_polySurface56
+    3300074: NDanq_20160322_2233_polySurface57
+    3300076: NDanq_20160322_2233_polySurface60
+    3300078: NDanq_20160322_2233_polySurface62
+    3300080: NDanq_20160322_2233_polySurface7
+    3300082: NDanq_20160322_2233_polySurface70_MeshPart0
+    3300084: NDanq_20160322_2233_polySurface70_MeshPart1
+    3300086: NDanq_20160322_2233_polySurface70_MeshPart10
+    3300088: NDanq_20160322_2233_polySurface70_MeshPart11
+    3300090: NDanq_20160322_2233_polySurface70_MeshPart2
+    3300092: NDanq_20160322_2233_polySurface70_MeshPart3
+    3300094: NDanq_20160322_2233_polySurface70_MeshPart4
+    3300096: NDanq_20160322_2233_polySurface70_MeshPart5
+    3300098: NDanq_20160322_2233_polySurface70_MeshPart6
+    3300100: NDanq_20160322_2233_polySurface70_MeshPart7
+    3300102: NDanq_20160322_2233_polySurface70_MeshPart8
+    3300104: NDanq_20160322_2233_polySurface70_MeshPart9
+    3300106: NDanq_20160322_2233_polySurface71
+    3300108: NDanq_20160322_2233_polySurface72
+    3300110: NDanq_20160322_2233_polySurface73
+    3300112: NDanq_20160322_2233_polySurface74
+    3300114: NDanq_20160322_2233_polySurface75
+    3300116: NDanq_20160322_2233_polySurface9
+    3300118: NDanq_20160322_2233_Propeller_Motor_Casing
+    3300120: NDanq_20160322_2233_Propeller_Motor_Casing 1
+    3300122: NDanq_20160322_2233_Propeller_Motor_Casing 2
+    3300124: NDanq_20160322_2233_Propeller_Motor_Casing 3
+    3300126: NDanq_20160322_2233_Propeller_Motor_Casing 4
+    3300128: NDanq_20160322_2233_Propeller_Motor_Casing 5
+    3300130: NDanq_20160322_2233_Propeller_Motor_Casing 6
+    3300132: NDanq_20160322_2233_Propeller_Motor_Casing 7
+    3300134: NDanq_20160322_2233_Propeller_MotorChasis
+    3300136: NDanq_20160322_2233_Propeller_MotorChasis 1
+    3300138: NDanq_20160322_2233_Propeller_MotorChasis 2
+    3300140: NDanq_20160322_2233_Propeller_MotorChasis 3
+    3300142: NDanq_20160322_2233_Propeller_MotorChasis 4
+    3300144: NDanq_20160322_2233_Propeller_MotorChasis 5
+    3300146: NDanq_20160322_2233_Propeller_MotorChasis 6
+    3300148: NDanq_20160322_2233_Propeller_MotorChasis 7
+    3300150: NDanq_20160322_2233_Propeller_propeller
+    3300152: NDanq_20160322_2233_Propeller_propeller 1
+    3300154: NDanq_20160322_2233_Propeller_propeller 2
+    3300156: NDanq_20160322_2233_Propeller_propeller 3
+    3300158: NDanq_20160322_2233_Propeller_propeller 4
+    3300160: NDanq_20160322_2233_Propeller_propeller 5
+    3300162: NDanq_20160322_2233_Propeller_propeller 6
+    3300164: NDanq_20160322_2233_Propeller_propeller 7
+    3300166: NDanq_20160322_2233_pTorus2
+    3300168: NDanq_20160322_2233_pTorus3
+    3300170: NDanq_20160322_2233_pTorus4
+    3300172: NDanq_20160322_2233_pTorus5
+    4300000: NDanq_20160322_2233_polySurface7
+    4300002: NDanq_20160322_2233_polySurface9
+    4300004: NDanq_20160322_2233_polySurface17
+    4300006: NDanq_20160322_2233_polySurface25
+    4300008: NDanq_20160322_2233_polySurface29
+    4300010: NDanq_20160322_2233_polySurface70_MeshPart0
+    4300012: NDanq_20160322_2233_polySurface70_MeshPart1
+    4300014: NDanq_20160322_2233_polySurface70_MeshPart2
+    4300016: NDanq_20160322_2233_polySurface70_MeshPart3
+    4300018: NDanq_20160322_2233_polySurface70_MeshPart4
+    4300020: NDanq_20160322_2233_polySurface70_MeshPart5
+    4300022: NDanq_20160322_2233_polySurface70_MeshPart6
+    4300024: NDanq_20160322_2233_polySurface70_MeshPart7
+    4300026: NDanq_20160322_2233_polySurface70_MeshPart8
+    4300028: NDanq_20160322_2233_polySurface70_MeshPart9
+    4300030: NDanq_20160322_2233_polySurface70_MeshPart10
+    4300032: NDanq_20160322_2233_polySurface70_MeshPart11
+    4300034: NDanq_20160322_2233_polySurface60
+    4300036: NDanq_20160322_2233_polySurface71
+    4300038: NDanq_20160322_2233_polySurface50
+    4300040: NDanq_20160322_2233_polySurface47
+    4300042: NDanq_20160322_2233_polySurface57
+    4300044: NDanq_20160322_2233_polySurface44
+    4300046: NDanq_20160322_2233_polySurface72
+    4300048: NDanq_20160322_2233_polySurface73
+    4300050: NDanq_20160322_2233_polySurface74
+    4300052: NDanq_20160322_2233_polySurface23
+    4300054: NDanq_20160322_2233_polySurface24
+    4300056: NDanq_20160322_2233_polySurface55
+    4300058: NDanq_20160322_2233_polySurface56
+    4300060: NDanq_20160322_2233_polySurface16
+    4300062: NDanq_20160322_2233_polySurface31
+    4300064: NDanq_20160322_2233_polySurface75
+    4300066: NDanq_20160322_2233_Ballast1
+    4300068: NDanq_20160322_2233_pCylinder1
+    4300070: NDanq_20160322_2233_base8020
+    4300072: NDanq_20160322_2233_base8021
+    4300074: NDanq_20160322_2233_base8022
+    4300076: NDanq_20160322_2233_pTorus2
+    4300078: NDanq_20160322_2233_pTorus3
+    4300080: NDanq_20160322_2233_base8023
+    4300082: NDanq_20160322_2233_base8024
+    4300084: NDanq_20160322_2233_base8025
+    4300086: NDanq_20160322_2233_Ballast2
+    4300088: NDanq_20160322_2233_base8026
+    4300090: NDanq_20160322_2233_base8027
+    4300092: NDanq_20160322_2233_pCube1
+    4300094: NDanq_20160322_2233_base8028
+    4300096: NDanq_20160322_2233_base8029
+    4300098: NDanq_20160322_2233_polySurface62
+    4300100: NDanq_20160322_2233_pCube2
+    4300102: NDanq_20160322_2233_pTorus4
+    4300104: NDanq_20160322_2233_pTorus5
+    4300106: NDanq_20160322_2233_lowPoly_Defiance_pCylinder3
+    4300108: NDanq_20160322_2233_lowPoly_Defiance_pCube1
+    4300110: NDanq_20160322_2233_lowPoly_Defiance_pCylinder1
+    4300112: NDanq_20160322_2233_lowPoly_Defiance_pCube2
+    4300114: NDanq_20160322_2233_lowPoly_Defiance_pCube4
+    4300116: NDanq_20160322_2233_lowPoly_Defiance_pCube5
+    4300118: NDanq_20160322_2233_lowPoly_Defiance_pCylinder2
+    4300120: NDanq_20160322_2233_lowPoly_Defiance_pCube3
+    4300122: NDanq_20160322_2233_Propeller_Motor_Casing
+    4300124: NDanq_20160322_2233_Propeller_MotorChasis
+    4300126: NDanq_20160322_2233_Propeller_propeller
+    4300128: NDanq_20160322_2233_Propeller_Motor_Casing
+    4300130: NDanq_20160322_2233_Propeller_MotorChasis
+    4300132: NDanq_20160322_2233_Propeller_propeller
+    4300134: NDanq_20160322_2233_Propeller_Motor_Casing
+    4300136: NDanq_20160322_2233_Propeller_MotorChasis
+    4300138: NDanq_20160322_2233_Propeller_propeller
+    4300140: NDanq_20160322_2233_Propeller_Motor_Casing
+    4300142: NDanq_20160322_2233_Propeller_MotorChasis
+    4300144: NDanq_20160322_2233_Propeller_propeller
+    4300146: NDanq_20160322_2233_Propeller_Motor_Casing
+    4300148: NDanq_20160322_2233_Propeller_MotorChasis
+    4300150: NDanq_20160322_2233_Propeller_propeller
+    4300152: NDanq_20160322_2233_Propeller_Motor_Casing
+    4300154: NDanq_20160322_2233_Propeller_MotorChasis
+    4300156: NDanq_20160322_2233_Propeller_propeller
+    4300158: NDanq_20160322_2233_Propeller_Motor_Casing
+    4300160: NDanq_20160322_2233_Propeller_MotorChasis
+    4300162: NDanq_20160322_2233_Propeller_propeller
+    4300164: NDanq_20160322_2233_Propeller_Motor_Casing
+    4300166: NDanq_20160322_2233_Propeller_MotorChasis
+    4300168: NDanq_20160322_2233_Propeller_propeller
+    4300170: NDanq_20160322_2233_base8030
+    4300172: NDanq_20160322_2233_base8031
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
