@@ -29,7 +29,8 @@ public class RoboMove : MonoBehaviour {
             if (!jobComplete)
             {
                 transform.position = Vector3.MoveTowards(transform.position, wayPoint, step);
-                transform.rotation = Quaternion.LookRotation(Vector3.RotateTowards(transform.forward, direction, step, 0.0f));
+                Quaternion newRot = Quaternion.LookRotation(Vector3.RotateTowards(transform.forward, direction, step, 0.0f));
+                transform.rotation = Quaternion.Slerp(transform.rotation, newRot, step);
                 if (transform.position == wayPoint) { jobComplete = true; }
             }
             else {
