@@ -65,6 +65,7 @@
     <Compile Include="Assets\HandleArenaEditor.cs" />
     <Compile Include="Assets\HandleCamera.cs" />
     <Compile Include="Assets\HandleCameraDropdown.cs" />
+    <Compile Include="Assets\HandleTransformPanel.cs" />
     <Compile Include="Assets\RoboMove.cs" />
     <Compile Include="Assets\Robo_Idle.cs" />
   </ItemGroup>

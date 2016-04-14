@@ -21,7 +21,7 @@ public class RoboMove : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        if (Input.GetKeyDown(KeyCode.Space)){ activate = true; }
+		if (Input.GetKeyDown(KeyCode.Space)){ activate = !activate; }
         if (activate)
         {
             float step = SPEED * Time.deltaTime;
